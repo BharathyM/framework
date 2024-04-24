@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"> -->
+<suite name="Default Suite">
+	<!-- Default Suite -->
+	<test name="OFIS_API_Automation" thread-count="5">
+		<parameter name="browser" value="chrome"></parameter>
+
+		<groups>
+			<run>
+				<exclude name="Ignore" />
+			</run>
+		</groups>
+
+		<packages>
+			<package name="APITestCases.OFIS_AnalysisReporting.*" />
+			<package name="APITestCases.OFIS_Atsource.*" />
+			<package name="APITestCases.OFIS_Batch.*" />
+			<package name="APITestCases.OFIS_BusinessDataPatch.*" />
+			<!-- <package name="APITestCases.OFIS_Children.*" /> -->
+			<package name="APITestCases.OFIS_ChildStatistics.*" />
+			<package name="APITestCases.OFIS_ChildSurvey.*" />
+			<package name="APITestCases.OFIS_CoffeeDataUploadUtil.*" />
+			<package name="APITestCases.OFIS_CoopSurvey.*" />
+			<package name="APITestCases.OFIS_EnumeratorGPSTracker.*" />
+			<package name="APITestCases.OFIS_FarmerDataAsService.*" />
+			<package name="APITestCases.OFIS_FarmerHouseHold.*" />
+			<package name="APITestCases.OFIS_FgFilters.*" />
+			<package name="APITestCases.OFIS_FgOverview.*" />
+			<package name="APITestCases.OFIS_Fseg.*" />
+			<package name="APITestCases.OFIS_LiCalculator.*" />
+			<package name="APITestCases.OFIS_Sip.*" />
+			<!-- <package name="APITestCases.OFIS_Survey.*" / -->
+			<package name="APITestCases.OFIS_Utility.*" />
+
+
+		</packages>
+		<!-- <classes> <class name="APITestCases.OFIS_EnumeratorGPSTracker.TC001_getAllGPSDownloadData"/> 
+			</classes> -->
+	</test>
+</suite>

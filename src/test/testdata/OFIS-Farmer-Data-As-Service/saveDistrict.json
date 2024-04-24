@@ -1,0 +1,17 @@
+{
+    "subDistrictId": 2179,
+    "districtId": 23,
+    "regionId": 1,
+    "subdistrictCode": null,
+    "subDistrictName": "YAMOUSSOUKRO",
+    "active": true,
+    "deletedFlag": false,
+    "ofisActive": false,
+    "odActive": false,
+    "countryName": "United States updated",
+    "regionName": "CENTRE1",
+    "districtName": "YAMOUSSOUKRO",
+    "deactOdReason": null,
+    "deactOfisReason": "only for testing purpose for swagger documentation"
+}
+

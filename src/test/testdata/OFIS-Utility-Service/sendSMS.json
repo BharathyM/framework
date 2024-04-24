@@ -1,0 +1,5 @@
+{
+  "twilioConnectionId": 123456789,
+  "contactNumber": "+1234567890",
+  "messageBody": "This is a sample message body."
+}

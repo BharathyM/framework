@@ -1,0 +1,18 @@
+{
+  "countryId": 1,
+  "countryName": "United States",
+  "countryCode": "US",
+  "countryIsoCode": "USA",
+  "diallingCode": "+1",
+  "olamCountry": true,
+  "centreLat": 37.0902,
+  "centreLng": -95.7129,
+  "smsOriginatorId": "US_SMS",
+  "active": true,
+  "isSubDistrictCaptured": false,
+  "deletedFlag": false,
+  "odActive": true,
+  "deactOdReason": null,
+  "deactOfisReason": null
+}
+

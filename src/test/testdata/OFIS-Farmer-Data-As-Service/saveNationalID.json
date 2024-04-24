@@ -1,0 +1,11 @@
+{
+    "id": 3,
+    "category": "National Id",
+    "natIdTypeList": [
+        3
+    ],
+    "assignments": [],
+    "globallyFlag": true,
+    "natNameTypeList": null,
+    "showIn": "Globally"
+}

@@ -1,0 +1,66 @@
+{
+    "regionId": 350,
+    "regionName": "BONE",
+    "centreLat": -4.3000036103,
+    "centreLng": 119.8445912769,
+    "active": true,
+    "ofiActive": null,
+    "deletedFlag": false,
+    "odActive": false,
+    "countryId": 11,
+    "code": null,
+    "product": [
+        {
+            "id": 22,
+            "name": "Corn - FSP",
+            "name_fr": "",
+            "name_es": "",
+            "name_id": "",
+            "name_pt": "",
+            "name_tr": "",
+            "name_lo": "",
+            "name_vi": "",
+            "name_th": "",
+            "appId": 1,
+            "active": true,
+            "deletedFlag": false,
+            "createdBy": "1338",
+            "updatedBy": "1338",
+            "createdAt": 1644500015000,
+            "updatedAt": 1644500015000,
+            "programme": [
+                {
+                    "appId": 1,
+                    "active": true,
+                    "deletedFlag": false,
+                    "createdBy": "583",
+                    "updatedBy": "583",
+                    "createdAt": 1602144005000,
+                    "updatedAt": 1645506230000,
+                    "id": 119,
+                    "programmeId": null,
+                    "name": "JIVA",
+                    "code": null
+                },
+                {
+                    "appId": 3,
+                    "active": true,
+                    "deletedFlag": false,
+                    "createdBy": "admin",
+                    "updatedBy": "1466",
+                    "createdAt": 1420070399000,
+                    "updatedAt": 1664819508000,
+                    "id": 4,
+                    "programmeId": 3,
+                    "name": "test alert",
+                    "code": "OLC"
+                }
+            ]
+        }
+    ],
+    "ofisActive": true,
+    "deactOdReason": null,
+    "deactOfisReason": "",
+    "countryName": "INDONESIA"
+}
+

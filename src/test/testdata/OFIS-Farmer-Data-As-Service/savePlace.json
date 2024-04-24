@@ -1,0 +1,27 @@
+{
+    "placeId": 2,
+    "districtId": 2,
+    "regionId": null,
+    "type": "TOWN",
+    "placeName": "BONON",
+    "active": true,
+    "deletedFlag": false,
+    "createdBy": "admin",
+    "updatedBy": "1838",
+    "createdTs": 1420070399000,
+    "updatedTs": 1709806168000,
+    "corePlaceId": null,
+    "districtName": "DALOA",
+    "regionName": "TestSIT",
+    "countryName": "Testbysit",
+    "subDistrictId": 2158,
+    "subDistrictName": "DALOA",
+    "code": null,
+    "odPlaceId": null,
+    "mobileFlag": null,
+    "odActive": false,
+    "ofisActive": true,
+    "deactOdReason": "testDEV",
+    "deactOfisReason": ""
+}
+

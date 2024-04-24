@@ -1,0 +1,19 @@
+{
+    "submittedModuleId": 160,
+    "farmerId": 1,
+    "moduleId": 345,
+    "followup_duedate": "2020-08-06T15:15:09.983",
+    "followups": [
+        {
+            "questionId": 3010,
+            "complianceId": 303,
+            "status": "Not  Resolved",
+            "actionplanId": 239,
+            "actionPlanText": "tes",
+            "isPortal": true,
+            "dmCapturedProof": null,
+            "attempt": 1
+        }
+    ]
+}
+

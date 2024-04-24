@@ -1,0 +1,12 @@
+{
+    "dateRange": [],
+    "from": "",
+    "to": "",
+    "page": 1,
+    "size": 50,
+    "sort": "id",
+    "direction": "desc",
+    "searchText": "",
+    "isMasked": false,
+    "isPostFilter": true
+}

@@ -1,0 +1,13 @@
+{
+        "moduleId": 2690,
+        "moduleAssignmentId": "1,0,0,0,0",
+        "moduleAssignmentType": "Country",
+        "recurrenceFrequency": 0,
+        "recurrenceType": "",
+        "disabledMonths": "",
+        "appId": 1,
+        "atsource": true,
+        "active": true,
+        "fkFarmerRoleId": null,
+        "isFarmSurvey": false
+    }

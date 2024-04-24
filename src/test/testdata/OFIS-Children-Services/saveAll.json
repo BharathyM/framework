@@ -1,0 +1,49 @@
+{
+  "children": [
+    {
+      "id": 0,
+      "farmerId": 0,
+      "name": "string",
+      "age": 0,
+      "countryId": 0,
+      "ageOnYear": 0,
+      "actionFlag": true,
+      "productId": 0,
+      "regionId": 0,
+      "districtId": 0,
+      "placeId": 0,
+      "partnerId": 0,
+      "sectionId": 0,
+      "farmerGroupId": 0,
+      "runningAge": 0,
+      "enumeratorId": 0,
+      "flaggingReasons": [
+        "string"
+      ],
+      "notInCL": true,
+      "submittedModuleId": 0,
+      "surveyType": 0,
+      "surveyYear": 0,
+      "gender": "string",
+      "statusId": 0,
+      "status": "string",
+      "followUpPassReasons": [
+        "string"
+      ],
+      "registeredDate": "2024-03-17T19:04:31.513Z",
+      "submittedDate": "2024-03-17T19:04:31.513Z",
+      "isUpdateChildHistory": true,
+      "farmerGroupName": "awass",
+      "active": true
+    }
+  ],
+  "isChildEnumerator": true,
+  "olamEnumeratorId": 123,
+  "flaggingReasons": [
+    {
+      "id": 1,
+      "description": "Olam",
+      "followup": true
+    }
+  ]
+}

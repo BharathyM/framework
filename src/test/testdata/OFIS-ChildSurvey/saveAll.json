@@ -1,0 +1,12 @@
+{
+  "childAvailabilityStatus": [
+    {
+      "id": "",
+      "farmerId": 131211,
+      "surveyCode": 2,
+      "surveyDescription": "Inspection Survey",
+      "enumeratorId": 2341234,
+      "productId": 1
+    }
+  ]
+}

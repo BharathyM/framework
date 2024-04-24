@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Default Suite">
+     Default Suite 
+    <test name="DemoLogin" thread-count="5">
+        <parameter name="browser" value="chrome"></parameter>
+        <classes>
+            <class name="UITestcase.TC001_Login"/>
+            <class name="UITestcase.TC001_Login"/>
+        </classes>
+    </test>
+     MS_WebUI_Automation-Multilingual 
+</suite>

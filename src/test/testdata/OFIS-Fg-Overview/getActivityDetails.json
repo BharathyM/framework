@@ -1,0 +1,12 @@
+{
+  "compressedData": "eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICJtQm9LVTdSWlA1alpYV0xvOF9hbl92UnRWcEUySHlrQ2FnbzMxbEk1VmFvIn0",
+  "pageNumber": 1,
+  "size": 10,
+  "sort": "example_sort_field",
+  "direction": "asc",
+  "searchText": "example_search_text",
+  "idParam": 123456789,
+  "moduleId": 987654321,
+  "selectedYear": 2019
+}
+

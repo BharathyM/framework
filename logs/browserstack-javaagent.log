@@ -1,0 +1,74 @@
+12:18:17.120 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.8.3
+12:18:17.130 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+12:18:17.435 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\bharathy.perumal\Downloads\WebUI-Automation-Framework-GitCopy\WebUI-Automation-Framework-master\browserstack.yml
+12:18:17.498 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+12:18:17.506 [main] INFO  c.b.config.BrowserStackConfig - Setting value of testObservability as specified in your browserstack.yml to true
+12:18:17.772 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+12:18:20.442 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled. Your cucumber-core dependency version is 6.10.0 which is lower than the minimum version we currently support (7.3.0).
+12:18:23.447 [main] INFO  c.b.config.BrowserStackConfig - INFO
+12:18:23.447 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+12:18:32.311 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+12:19:29.031 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/ to view build report, insights, and many more debugging information all at one place!
+
+12:19:29.543 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/eb54299895b469308e23fa0a288e6114b000e6f0
+12:19:29.543 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+12:19:32.984 [Thread-5] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.
+12:19:57.739 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.8.3
+12:19:57.743 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+12:19:58.049 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\bharathy.perumal\Downloads\WebUI-Automation-Framework-GitCopy\WebUI-Automation-Framework-master\browserstack.yml
+12:19:58.120 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+12:19:58.133 [main] INFO  c.b.config.BrowserStackConfig - Setting value of testObservability as specified in your browserstack.yml to true
+12:19:58.401 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+12:20:00.930 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled. Your cucumber-core dependency version is 6.10.0 which is lower than the minimum version we currently support (7.3.0).
+12:20:03.925 [main] INFO  c.b.config.BrowserStackConfig - INFO
+12:20:03.925 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+12:20:11.696 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+12:21:16.732 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/ to view build report, insights, and many more debugging information all at one place!
+
+12:21:17.262 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/f96ba7de5f8ed4125103734aba4f1a2ea6411e60
+12:21:17.262 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+12:21:20.441 [Thread-5] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.
+12:23:17.702 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 
+12:23:17.708 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+12:23:17.953 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\bharathy.perumal\Downloads\WebUI-Automation-Framework-GitCopy\WebUI-Automation-Framework-master\browserstack.yml
+12:23:18.037 [main] INFO  c.b.config.BrowserStackConfig - Setting value of testObservability as specified in your browserstack.yml to true
+12:23:18.424 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to java
+12:23:20.721 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is java. We currently support frameworks testng, cucumber-testng & serenity
+12:23:21.295 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+12:23:29.645 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+12:23:30.760 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\bharathy.perumal\Downloads\WebUI-Automation-Framework-GitCopy\WebUI-Automation-Framework-master\browserstack.yml
+12:23:30.780 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\bharathy.perumal\Downloads\WebUI-Automation-Framework-GitCopy\WebUI-Automation-Framework-master\browserstack.yml
+12:23:30.813 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\bharathy.perumal\Downloads\WebUI-Automation-Framework-GitCopy\WebUI-Automation-Framework-master\browserstack.yml
+12:23:30.913 [main] INFO  c.b.config.BrowserStackConfig - Setting value of testObservability as specified in your browserstack.yml to true
+12:23:30.936 [main] INFO  c.b.config.BrowserStackConfig - Setting value of testObservability as specified in your browserstack.yml to true
+12:23:30.972 [main] INFO  c.b.config.BrowserStackConfig - Setting value of testObservability as specified in your browserstack.yml to true
+12:23:33.517 [main] ERROR c.b.utils.GlobalExceptionHandler - Global SDK Exception - java.lang.NoClassDefFoundError: org/testng/log4testng/Logger
+12:23:33.517 [main] ERROR c.b.utils.GlobalExceptionHandler - Global SDK Exception - java.lang.NoClassDefFoundError: org/testng/log4testng/Logger
+12:23:33.541 [main] ERROR c.b.utils.GlobalExceptionHandler - Global SDK Exception - java.lang.NoClassDefFoundError: org/testng/log4testng/Logger
+12:23:38.496 [Thread-3] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.
+12:24:41.925 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 
+12:24:41.930 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+12:24:42.122 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\bharathy.perumal\Downloads\WebUI-Automation-Framework-GitCopy\WebUI-Automation-Framework-master\browserstack.yml
+12:24:42.180 [main] INFO  c.b.config.BrowserStackConfig - Setting value of testObservability as specified in your browserstack.yml to true
+12:24:42.394 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to java
+12:24:44.526 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is java. We currently support frameworks testng, cucumber-testng & serenity
+12:24:45.023 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+12:24:52.550 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+12:24:53.626 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\bharathy.perumal\Downloads\WebUI-Automation-Framework-GitCopy\WebUI-Automation-Framework-master\browserstack.yml
+12:24:53.628 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\bharathy.perumal\Downloads\WebUI-Automation-Framework-GitCopy\WebUI-Automation-Framework-master\browserstack.yml
+12:24:53.744 [main] INFO  c.b.config.BrowserStackConfig - Setting value of testObservability as specified in your browserstack.yml to true
+12:24:53.744 [main] INFO  c.b.config.BrowserStackConfig - Setting value of testObservability as specified in your browserstack.yml to true
+12:24:56.157 [main] ERROR c.b.utils.GlobalExceptionHandler - Global SDK Exception - java.lang.NoClassDefFoundError: org/testng/log4testng/Logger
+12:24:56.167 [main] ERROR c.b.utils.GlobalExceptionHandler - Global SDK Exception - java.lang.NoClassDefFoundError: org/testng/log4testng/Logger
+12:25:31.279 [Thread-3] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.
+12:31:46.125 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.8.3
+12:31:46.133 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+12:31:46.421 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\bharathy.perumal\Downloads\WebUI-Automation-Framework-GitCopy\WebUI-Automation-Framework-master\browserstack.yml
+12:31:46.505 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+12:31:46.519 [main] INFO  c.b.config.BrowserStackConfig - Setting value of testObservability as specified in your browserstack.yml to true
+12:31:46.825 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+12:31:49.765 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled. Your cucumber-core dependency version is 6.10.0 which is lower than the minimum version we currently support (7.3.0).
+12:31:52.756 [main] INFO  c.b.config.BrowserStackConfig - INFO
+12:31:52.757 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+12:32:22.191 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/ to view build report, insights, and many more debugging information all at one place!
+

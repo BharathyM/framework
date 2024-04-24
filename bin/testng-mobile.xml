@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Default Suite">
+    <!-- Default Suite -->
+    <parameter name="platformName"  value="Android"/>
+    <parameter name="deviceName"  value="Galaxy A30"/>
+    <parameter name="appPackage"  value="com.olam.OlammarketNigeria"/>
+    <parameter name="appActivity"  value="com.olam.OlammarketNigeria.MainActivity"/>
+    <parameter name="automationName"  value="UiAutomator2"/>
+    <parameter name="app"  value="\Apks\UAT-OlamMarkets.apk"/>
+
+    <test name="DemoLogin" thread-count="5">
+        <!--<parameter name="browser" value="chrome"></parameter>-->
+        <classes>
+                        <class name="CucumberRunner.Runner_Mobile" />
+        </classes>
+    </test>
+    <!-- MS_WebUI_Automation-Multilingual -->
+</suite>

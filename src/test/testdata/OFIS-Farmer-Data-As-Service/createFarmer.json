@@ -1,0 +1,65 @@
+{
+  "id": 123,
+  "farmerId": 456,
+  "displayFarmerId": "FAR456",
+  "farmerFirstName": "John",
+  "farmerLastName": "Doe",
+  "dateOfBirth": "1990-05-15",
+  "gender": "Male",
+  "email": "johndoe@example.com",
+  "ofisFlag": true,
+  "odFlag": false,
+  "deletedFlag": false,
+  "farmerName": "John Doe",
+  "countryId": 1,
+  "districtId": 101,
+  "subdistrictId": 201,
+  "placeId": 301,
+  "phoneNumbers": [
+    {
+      "id": 1,
+      "farmerId": 456,
+      "phoneNumber": "+1234567890",
+      "primaryNumber": true,
+      "deleteFlag": false,
+      "deletedFlag": false,
+      "farmerPhoneNumberId": 101,
+      "countryId": 1,
+      "diallingCode": "+1"
+    }
+  ],
+  "createdTs": "2024-03-27T12:30:45",
+  "updatedTs": "2024-03-27T14:45:21",
+  "createdBy": "admin",
+  "updatedBy": "manager",
+  "appId": 1234,
+  "globalFamerId": 789,
+  "farmerGroupId": 101,
+  "tempFarmerId": 123456,
+  "enumeratorId": 456789,
+  "sectionId": 789012,
+  "regionId": 345,
+  "programmeId": 678,
+  "createdAt": "2024-03-27T12:30:45",
+  "registeredDate": "2024-03-15",
+  "role": 1,
+  "roleId": 101,
+  "nationalIdType": 1,
+  "nationalIdNumber": "ABC123XYZ",
+  "editFlag": false,
+  "olamFarmerId": "OLAM456",
+  "farmerGroupCode": "FGC101",
+  "sectionCode": "SEC789",
+  "odFarmerLeadId": "ODL789",
+  "farmerLeadName": "Alice Smith",
+  "uniqueIdType": "Passport",
+  "uniqueId": "P123456789",
+  "phoneNumber": "+1234567890",
+  "nationalIDs": [
+    {
+      "nationalIdType": 1,
+      "nationalIdNumber": "ABC123XYZ"
+    }
+  ]
+}
+

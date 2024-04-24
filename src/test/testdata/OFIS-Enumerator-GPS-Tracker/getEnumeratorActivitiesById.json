@@ -1,0 +1,8 @@
+{
+  "olamEnumeratorId": "123098",
+  "latitude": 40.7128,
+  "longitude": -74.0060,
+  "activity_ids": ["activity1", "activity2"],
+  "downloadInterval": "Daily"
+}
+

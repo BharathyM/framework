@@ -1,0 +1,45 @@
+{
+    "id": 86007,
+    "question_id": 5348,
+    "question_name": "Origin Survey - What is the operating margin of plantain production by cocoa farmers?edit",
+    "position": 1,
+    "value": "GHS/farm",
+    "value_fr": "GHS/farm",
+    "value_es": "GHS/farm",
+    "value_id": "GHS/farm",
+    "value_pt": "GHS/farm",
+    "value_tr": "GHS/farm",
+    "value_lo": "GHS/farm",
+    "value_vi": "GHS/farm",
+    "value_th": "GHS/farm",
+    "photo": "",
+    "active": true,
+    "created_at": "2021-07-15T07:42:56.000+00:00",
+    "updated_at": "2021-07-15T07:42:56.000+00:00",
+    "app_id": 1,
+    "countryLookUpValueDtos": [
+        {
+            "id": 40263,
+            "country_id": 53,
+            "product_id": null,
+            "lookupvalue_id": 8607,
+            "created_at": "2021-07-15T07:42:56.000+00:00",
+            "updated_at": "2021-07-15T07:42:56.000+00:00",
+            "app_id": 1,
+            "countryName": null
+        }
+    ],
+    "isCLMRSLookUp": false,
+    "clmrsCountryProducts": [
+        {
+            "countryId": 16,
+            "countryName": null,
+            "productId": 6,
+            "productName": null,
+            "regionId": null,
+            "regionName": null
+        }
+    ],
+    "stringId": "86007"
+}
+
